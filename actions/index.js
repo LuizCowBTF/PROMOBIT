@@ -186,14 +186,14 @@ export const deleteMovie = (id) => {
   });
 };
 
-export const nextPage = (pageNumber) => {
-  return axios
-    .get(
-      `${prod.url}/search/movie?api_key=${prod.api_key}&lanaguage=${prod.language}&page=${page}`
-    )
-    .then((res) => {
-      return res.data.results;
-    });
-    console.log(res)
+// export const nextPage = (pageNumber) => {
+//   return axios
+//     .get(
+//       `${prod.url}/search/movie?api_key=${prod.api_key}&lanaguage=${prod.language}&page=${page}`
+//     )
+//     .then((res) => {
+//       return res.data.results;
+//     });
+//     console.log(res)
 
-}
+// }

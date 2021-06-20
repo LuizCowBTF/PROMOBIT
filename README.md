@@ -1,7 +1,7 @@
 # Aplicativo desenvolvido para teste de vaga para Desenvolvedor Front end React na Promobit
 ## Primeiros passos com Criar aplicativo 
 
-Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app) utilizando a ferramenta NextJS fazendo o serviço de RSS.
+Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app) utilizando a ferramenta NextJS fazendo o serviço de SSR.
 
 ## Scripts Disponíveis
 
