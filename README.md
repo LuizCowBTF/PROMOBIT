@@ -1,5 +1,6 @@
 # Aplicativo desenvolvido para teste de vaga para Desenvolvedor Front end React na Promobit
-## Primeiros passos com Criar aplicativo 
+
+## Primeiros passos com Criar aplicativo
 
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app) utilizando a ferramenta NextJS fazendo o serviço de SSR.
 
@@ -7,14 +8,13 @@ Este projeto foi inicializado com [Create React App] (https://github.com/faceboo
 
 No diretório do projeto, você pode executar:
 
-### `yarn start`
+### `npm start`
 
 Executa o aplicativo no modo de desenvolvimento. \
 Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
 
 Também podendo ser executado no modo Produção. \
 Altere a constante no arquivo index.js na pasta ACTIONS.\
-
 
 A página será recarregada se você fizer edições. \
 Você também verá quaisquer erros de lint no console.
@@ -44,14 +44,11 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você não precisa usar `ejetar`. O conjunto de recursos selecionados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que esta ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para ela.
 
-
 ## Caso ocorra alguma espécie de erros
 
 No console de comandos ou prompt e instale pacote do NodeJS por meio do comando:
 
 npm install --save
-
-
 
 ## ** Notas adicionais: **
 
